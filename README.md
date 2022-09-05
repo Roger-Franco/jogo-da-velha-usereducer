@@ -1,2 +1,3 @@
-## Jogo da velha com React Hooks e React Context
+## Jogo da velha com useReducer
+
 
